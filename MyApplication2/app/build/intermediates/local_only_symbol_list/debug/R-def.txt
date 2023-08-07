@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color gray
+color orange
+color red
+color salmon
+color white
+drawable ic_email
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_usuario
+drawable login
+id containerTop
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hint_email
+style Base.Theme.MyApplication
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
